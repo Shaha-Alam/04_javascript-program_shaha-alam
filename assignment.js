@@ -87,6 +87,6 @@ function anaToVori(ana) {
     }
   
   }
-  const myBestFried = ["Shofikul", "Opo", "Raihan", "Amdadul", "Dilu", "Rifat"];
+  const myBestFried = ["Shofikul", "Opo", "Raihan", "Amdadul", "Dilu", "Rifat","ALam"];
   // console.log(oddFriend(myBestFried));
   
